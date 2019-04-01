@@ -22,9 +22,9 @@ Estou trabalhando na confeccão de novos templates a fim de demonstrar meus conh
 
 ## Sobre mim
 
-Eu sou o Thiago e você pode me encontrar aqui:
-Linkedin: https://www.linkedin.com/in/thiagordebrito/
-E-mail: contato@comunidadepython.com.br
+Eu sou o Thiago e você pode me encontrar aqui:<br/>
+Linkedin: https://www.linkedin.com/in/thiagordebrito/<br/>
+E-mail: contato@comunidadepython.com.br<br/>
 
 ## Trabalhos personalizados
 

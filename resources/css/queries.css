@@ -1,0 +1,159 @@
+@media only screen and (max-width: 1200px) {
+    nav {
+        width: 100%;
+        padding: 0 20px;
+    }
+
+    .background-image-box {
+        width: 100%;
+        margin-left: 20px;
+    }
+
+}
+
+@media only screen and (max-width: 800px) {
+
+    .place:first-child {
+        width: 70% !important;
+        margin: 10px 15% !important;
+    }
+
+    .place {
+        width: 70% !important;
+        margin: 10px 15% !important;
+    }
+
+    .block {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .contact {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1130px) {
+
+    .row {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .place:first-child {
+        margin-left: 0;
+        width: 40%;
+        margin: 10px 30%;
+    }
+
+    .place {
+        margin-left: 0;
+        width: 40%;
+        margin: 10px 30%;
+    }
+
+    .plan {
+        width: 100%;
+    }
+
+
+}
+
+@media only screen and (max-width: 1000px) {
+    .mobile-nav {
+        display: block;
+        margin-top: 50px;
+    }
+
+    .mobile-nav {
+        color: #fff;
+    }
+
+    .main-nav {
+        display: none;
+    }
+
+    .main-nav {
+        float: left;
+        margin: 25px 25px 0 0;
+    }
+
+    .main-nav li {
+        display: block;
+    }
+
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        display: block;
+        border: 0;
+        margin-top: 10px;
+    }
+
+    .sticky .mobile-nav {
+        color: #000;
+        display: inline-block;
+        margin-top: 17px;
+    }
+
+
+
+
+
+
+}
+
+
+@media only screen and (max-width: 767px) {
+    .box {
+        width: 100%;
+    }
+
+    .box i {
+        width: 100%;
+        text-align: center;
+        margin: 10px auto;
+    }
+
+    .box-step {
+        width: 100%;
+    }
+
+    .box-step a img {
+        margin: 10px 30%;
+        display: block;
+        width: 30%;
+        height: auto;
+    }
+
+    .img-app {
+        width: 50%;
+        text-align: left;
+        margin: 0 25%;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+    label {
+        float: left;
+    }
+
+    .rights {
+        padding-top: 0;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .footer-midias ion-icon {
+        display: inline-block;
+        margin: 0 20px 0 20px;
+    }
+
+    .author p {
+        text-align: center;
+        float: none;
+        margin-bottom: 50px !important;
+    }
+
+}
